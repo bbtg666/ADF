@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"host": "D:",
 			"userId": "huytd",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3MjFlZTFiNC0wZTlkLTRiZWItODE3OC1lOTZmZTg1YjEyYmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0ZDEzNDczMS0wM2NhLTRhMmItYWQ3ZS0zNjRlZjMyZjc3Y2QiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntimeHuyVM",
